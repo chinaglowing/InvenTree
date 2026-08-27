@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 05:02+0000\n"
-"PO-Revision-Date: 2026-08-27 05:05\n"
+"POT-Creation-Date: 2026-08-27 23:02+0000\n"
+"PO-Revision-Date: 2026-08-27 23:05\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -10149,23 +10149,23 @@ msgstr "距离到期天数"
 msgid "You are receiving this email because you are subscribed to notifications for these parts"
 msgstr "您收到此邮件是因为您订阅了这些零件的通知"
 
-#: users/admin.py:101
+#: users/admin.py:109
 msgid "Users"
 msgstr "用户"
 
-#: users/admin.py:102
+#: users/admin.py:110
 msgid "Select which users are assigned to this group"
 msgstr "选择分配给此组的用户"
 
-#: users/admin.py:136
+#: users/admin.py:144
 msgid "Personal info"
 msgstr "个人信息"
 
-#: users/admin.py:138
+#: users/admin.py:146
 msgid "Permissions"
 msgstr "权限"
 
-#: users/admin.py:141
+#: users/admin.py:149
 msgid "Important dates"
 msgstr "重要日期"
 

@@ -8,7 +8,7 @@ msgstr ""
 "Language: ko\n"
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-08-25 04:38\n"
+"PO-Revision-Date: 2026-08-27 23:03\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5099,7 +5099,7 @@ msgid "Please correct the errors in the selected parts"
 msgstr "선택한 부분의 오류를 수정해주세요"
 
 #: src/components/wizards/OrderPartsWizard.tsx:629
-#: src/tables/build/BuildLineTable.tsx:908
+#: src/tables/build/BuildLineTable.tsx:913
 #: src/tables/part/PartTable.tsx:267
 #: src/tables/sales/SalesOrderLineItemTable.tsx:459
 #: src/tables/stock/TransferOrderLineItemTable.tsx:333
@@ -5766,7 +5766,7 @@ msgstr "재고 할당의 원본 위치를 선택하세요"
 #: src/tables/build/BuildLineTable.tsx:641
 #: src/tables/build/BuildLineTable.tsx:817
 #: src/tables/build/BuildLineTable.tsx:822
-#: src/tables/build/BuildLineTable.tsx:923
+#: src/tables/build/BuildLineTable.tsx:928
 #: src/tables/build/BuildOutputTable.tsx:239
 #: src/tables/sales/SalesOrderLineItemTable.tsx:469
 #: src/tables/sales/SalesOrderLineItemTable.tsx:515
@@ -5797,7 +5797,7 @@ msgstr "재고 품목이 할당되었습니다"
 #: src/tables/build/BuildAllocatedStockTable.tsx:263
 #: src/tables/build/BuildAllocatedStockTable.tsx:299
 #: src/tables/build/BuildLineTable.tsx:831
-#: src/tables/build/BuildLineTable.tsx:957
+#: src/tables/build/BuildLineTable.tsx:962
 #: src/tables/stock/TransferOrderTable.tsx:56
 msgid "Consume Stock"
 msgstr "재고 소비"
@@ -10829,7 +10829,7 @@ msgstr "재고 할당이 완료되었습니다"
 
 #: src/tables/build/BuildLineTable.tsx:624
 #: src/tables/build/BuildLineTable.tsx:632
-#: src/tables/build/BuildLineTable.tsx:892
+#: src/tables/build/BuildLineTable.tsx:894
 #: src/tables/build/BuildOutputTable.tsx:253
 #: src/tables/build/BuildOutputTable.tsx:537
 #: src/tables/sales/SalesOrderLineItemTable.tsx:408
@@ -10852,7 +10852,7 @@ msgstr "선택한 옵션에 따라 추적되지 않는 BOM 항목을 이 생산�
 #: src/tables/build/BuildLineTable.tsx:678
 #: src/tables/build/BuildLineTable.tsx:692
 #: src/tables/build/BuildLineTable.tsx:841
-#: src/tables/build/BuildLineTable.tsx:945
+#: src/tables/build/BuildLineTable.tsx:950
 #: src/tables/build/BuildOutputTable.tsx:449
 #: src/tables/build/BuildOutputTable.tsx:454
 msgid "Deallocate Stock"
@@ -10883,6 +10883,10 @@ msgstr "생산 재고"
 #: src/tables/stock/TransferOrderLineItemTable.tsx:450
 msgid "View Part"
 msgstr "부품 보기"
+
+#: src/tables/build/BuildLineTable.tsx:895
+msgid "Build order must be issued before stock can be allocated"
+msgstr ""
 
 #: src/tables/build/BuildOrderFilters.tsx:79
 msgid "Show external build orders"

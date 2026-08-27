@@ -8,7 +8,7 @@ msgstr ""
 "Language: zh\n"
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-08-25 04:38\n"
+"PO-Revision-Date: 2026-08-27 23:03\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5099,7 +5099,7 @@ msgid "Please correct the errors in the selected parts"
 msgstr "請修正選定零件中的錯誤"
 
 #: src/components/wizards/OrderPartsWizard.tsx:629
-#: src/tables/build/BuildLineTable.tsx:908
+#: src/tables/build/BuildLineTable.tsx:913
 #: src/tables/part/PartTable.tsx:267
 #: src/tables/sales/SalesOrderLineItemTable.tsx:459
 #: src/tables/stock/TransferOrderLineItemTable.tsx:333
@@ -5766,7 +5766,7 @@ msgstr "選擇分配庫存的源位置"
 #: src/tables/build/BuildLineTable.tsx:641
 #: src/tables/build/BuildLineTable.tsx:817
 #: src/tables/build/BuildLineTable.tsx:822
-#: src/tables/build/BuildLineTable.tsx:923
+#: src/tables/build/BuildLineTable.tsx:928
 #: src/tables/build/BuildOutputTable.tsx:239
 #: src/tables/sales/SalesOrderLineItemTable.tsx:469
 #: src/tables/sales/SalesOrderLineItemTable.tsx:515
@@ -5797,7 +5797,7 @@ msgstr "分配的庫存項目"
 #: src/tables/build/BuildAllocatedStockTable.tsx:263
 #: src/tables/build/BuildAllocatedStockTable.tsx:299
 #: src/tables/build/BuildLineTable.tsx:831
-#: src/tables/build/BuildLineTable.tsx:957
+#: src/tables/build/BuildLineTable.tsx:962
 #: src/tables/stock/TransferOrderTable.tsx:56
 msgid "Consume Stock"
 msgstr "消耗庫存"
@@ -10829,7 +10829,7 @@ msgstr "庫存分配完成"
 
 #: src/tables/build/BuildLineTable.tsx:624
 #: src/tables/build/BuildLineTable.tsx:632
-#: src/tables/build/BuildLineTable.tsx:892
+#: src/tables/build/BuildLineTable.tsx:894
 #: src/tables/build/BuildOutputTable.tsx:253
 #: src/tables/build/BuildOutputTable.tsx:537
 #: src/tables/sales/SalesOrderLineItemTable.tsx:408
@@ -10852,7 +10852,7 @@ msgstr "根據選定的選項，將未追蹤的 BOM 項目自動分配給此生�
 #: src/tables/build/BuildLineTable.tsx:678
 #: src/tables/build/BuildLineTable.tsx:692
 #: src/tables/build/BuildLineTable.tsx:841
-#: src/tables/build/BuildLineTable.tsx:945
+#: src/tables/build/BuildLineTable.tsx:950
 #: src/tables/build/BuildOutputTable.tsx:449
 #: src/tables/build/BuildOutputTable.tsx:454
 msgid "Deallocate Stock"
@@ -10883,6 +10883,10 @@ msgstr "生產庫存"
 #: src/tables/stock/TransferOrderLineItemTable.tsx:450
 msgid "View Part"
 msgstr "檢視零件"
+
+#: src/tables/build/BuildLineTable.tsx:895
+msgid "Build order must be issued before stock can be allocated"
+msgstr ""
 
 #: src/tables/build/BuildOrderFilters.tsx:79
 msgid "Show external build orders"

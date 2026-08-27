@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 05:02+0000\n"
-"PO-Revision-Date: 2026-08-27 05:05\n"
+"POT-Creation-Date: 2026-08-27 23:02+0000\n"
+"PO-Revision-Date: 2026-08-27 23:05\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -10147,23 +10147,23 @@ msgstr "Ημέρες μέχρι τη λήξη"
 msgid "You are receiving this email because you are subscribed to notifications for these parts"
 msgstr "Λαμβάνετε αυτό το email επειδή έχετε εγγραφεί σε ειδοποιήσεις για αυτά τα προϊόντα"
 
-#: users/admin.py:101
+#: users/admin.py:109
 msgid "Users"
 msgstr "Χρήστες"
 
-#: users/admin.py:102
+#: users/admin.py:110
 msgid "Select which users are assigned to this group"
 msgstr "Επιλέξτε ποιους χρήστες θα αντιστοιχίσετε σε αυτή την ομάδα"
 
-#: users/admin.py:136
+#: users/admin.py:144
 msgid "Personal info"
 msgstr "Προσωπικές πληροφορίες"
 
-#: users/admin.py:138
+#: users/admin.py:146
 msgid "Permissions"
 msgstr "Δικαιώματα"
 
-#: users/admin.py:141
+#: users/admin.py:149
 msgid "Important dates"
 msgstr "Σημαντικές ημερομηνίες"
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 05:02+0000\n"
-"PO-Revision-Date: 2026-08-27 05:05\n"
+"POT-Creation-Date: 2026-08-27 23:02+0000\n"
+"PO-Revision-Date: 2026-08-27 23:05\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -10147,23 +10147,23 @@ msgstr ""
 msgid "You are receiving this email because you are subscribed to notifications for these parts"
 msgstr ""
 
-#: users/admin.py:101
+#: users/admin.py:109
 msgid "Users"
 msgstr ""
 
-#: users/admin.py:102
+#: users/admin.py:110
 msgid "Select which users are assigned to this group"
 msgstr ""
 
-#: users/admin.py:136
+#: users/admin.py:144
 msgid "Personal info"
 msgstr ""
 
-#: users/admin.py:138
+#: users/admin.py:146
 msgid "Permissions"
 msgstr ""
 
-#: users/admin.py:141
+#: users/admin.py:149
 msgid "Important dates"
 msgstr ""
 
